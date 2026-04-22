@@ -1,5 +1,9 @@
 ## This is a project that leverages artificial intelligence to create the demo of a large-scale application concept. 
 Created using Claude and Cursor
+Deployed on: Vercel
+Database tool: Supabase
+Map: TBD
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
