@@ -1,4 +1,7 @@
 ## This is a project that leverages artificial intelligence to create the demo of a large-scale application concept. 
+
+**Temporarily Inactive while stack is reconfigured**
+
 Created using Claude and Cursor
 Deployed on: Vercel
 Database tool: Supabase
