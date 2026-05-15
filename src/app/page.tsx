@@ -4,6 +4,7 @@ import { AuthButton } from '@/components/AuthButton'
 import { PreferencePanel } from '@/components/PreferencePanel'
 import { RecommendationPanel } from '@/components/RecommendationPanel'
 import { RestroomCard } from '@/components/RestroomCard'
+import { SubmitRestroomFab } from '@/components/SubmitRestroomFab'
 import { createClient } from '@/lib/supabase/client'
 import type {
   Restroom,
@@ -301,6 +302,8 @@ export default function Home() {
           <p className="text-sm text-[#888]">Finding your location...</p>
         </div>
       ) : null}
+
+      <SubmitRestroomFab lat={mapLat} lng={mapLng} />
     </div>
   )
 }
