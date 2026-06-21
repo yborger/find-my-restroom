@@ -9,7 +9,7 @@
 
 ---
 
-## A Reflection and Notes
+## Reflection and Notes
 
 ### Strengths
 - **Speed** — The whole app took about 2.5 hours start to finish. A full-stack application with authorization, a live database, geo-search, and a recommendation engine deployed within an afternoon. The output at each step was near-instant.
